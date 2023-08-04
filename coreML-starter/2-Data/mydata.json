@@ -1,0 +1,51 @@
+[
+    {
+        "label": "Red",
+        "emoji": "❤️",
+        "complementary": "Green",
+        "analogous": "Red-Orange and Pink",
+        "triadic": "Yellow and Blue",
+    },
+    {
+        "label": "Orange",
+        "emoji": "🧡",
+        "complementary": "Blue",
+        "analogous": "Yellow-Orange and Red-Orange",
+        "triadic": "Green and Purple",
+    },
+    {
+        "label": "Yellow",
+        "emoji": "💛",
+        "complementary": "Purple",
+        "analogous": "Yellow-Green and Yellow-Orange",
+        "triadic": "Red and Blue",
+    },
+    {
+        "label": "Green",
+        "emoji": "💚",
+        "complementary": "Red",
+        "analogous": "Yellow-Green and Blue-Green",
+        "triadic": "Purple and Orange",
+    },
+    {
+        "label": "Blue",
+        "emoji": "💙",
+        "complementary": "Orange",
+        "analogous": "Blue-Green and Indigo",
+        "triadic": "Yellow and Red",
+    },
+    {
+        "label": "Purple",
+        "emoji": "💜",
+        "complementary": "Yellow",
+        "analogous": "Indigo and Pink",
+        "triadic": "Green and Orange",
+    },
+    {
+        "label": "Pink",
+        "emoji": "🩷",
+        "complementary": "Light Green",
+        "analogous": "Red and Purple",
+        "triadic": "Blue-Green and Yellow-Orange",
+    }
+]
